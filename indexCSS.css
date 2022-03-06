@@ -1,0 +1,17 @@
+body {
+
+    height: 97vh;
+    background: linear-gradient(130deg,#62567e 0%,#62567E 70%,#9575E2 60%,#9575E2 100%);
+
+    margin-left: 25px
+
+  }
+
+p {
+
+    color: whitesmoke;
+    font-family: Helvetica;
+    font-size: 20px;
+    line-height: 30px;
+
+}
